@@ -15,7 +15,6 @@ A basic, ready to rumble, Three.js - TypeScript and Webpack enabled boilerplate 
 Clone the template repository
 ```
 git clone https://github.com/DaanDeSmedt/threejs-typescript-webpack-boilerplate.git
-cd three-typescript-starter
 ```
 
 Install the required dependencies
